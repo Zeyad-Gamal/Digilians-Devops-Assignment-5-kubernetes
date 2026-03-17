@@ -1,1 +1,1 @@
-# Digilians-Devops-Bonus-Assignment-2-kubernetes
+# Digilians-Devops-Assignment-6-kubernetes
